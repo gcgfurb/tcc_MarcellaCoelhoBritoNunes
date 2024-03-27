@@ -10,3 +10,7 @@ Achou dois correlatos e está fazendo partes do Pré-projeto. Enviei os links:
 - <https://github.com/orgs/gcgfurb/repositories?type=archived&q=tcc_> - para pegar o TCC, no caso o projeto.  
 
 Disse que poderia usar como 3a correlato o Virtuali-tee da Curiscope.  
+
+## 2024-03-27 - 15:24
+
+[_Correlatos](_Correlatos)  
