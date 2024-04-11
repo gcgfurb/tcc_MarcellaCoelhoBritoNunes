@@ -2,6 +2,9 @@
 
 Material de TCC1: [MarcellaCoelhoBritoNunes](MarcellaCoelhoBritoNunes)  
 
+![ModeloAnatomico](ModeloAnatomico.jpg)  
+![ModeloAnatomico_Mauricio](ModeloAnatomico_Mauricio.jpeg)  
+
 ## 2024-03-26 - 21:32
 
 Achou dois correlatos e está fazendo partes do Pré-projeto. Enviei os links:
