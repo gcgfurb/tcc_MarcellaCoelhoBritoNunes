@@ -23,3 +23,7 @@ Disse que poderia usar como 3a correlato o Virtuali-tee da Curiscope.
 Revisão do Pré-projeto.  
 Vários ajustes, mas está no caminho certo.  
 [2023-03-26_PreProjeto.docx](2023-03-26_PreProjeto.docx)  
+
+## 2024-04-19 - 17:22
+
+[Revisão: 2023-04-17_PreProjeto.docx](2023-04-17_PreProjeto.docx)  
