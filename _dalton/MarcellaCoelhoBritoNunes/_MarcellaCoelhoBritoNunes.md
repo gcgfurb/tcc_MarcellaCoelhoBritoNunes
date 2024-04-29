@@ -26,6 +26,8 @@ Comentários:
 
 ## Atendimento Pré-Projeto  
 
+[2_PreProjeto](2_PreProjeto.docx "2_PreProjeto")  
+
 Percentual estimado: 75%  
 Comentários: precisa rever alguns pontos comentados. Cuidar com parágrafos curtos (ter no mínimo 3 frases).  
 [x] interagindo com o orientador:  
