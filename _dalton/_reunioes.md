@@ -51,7 +51,7 @@ Digitalização 3D:    PolyCam
 
 2) Digitalização (PolyCam)
     https://poly.cam (estudar)
-  [Dalton] LiDAR (CCT): Fábio
+  \[Dalton] LiDAR (CCT): Fábio
 
 3) Marcar Tomio reunião TCC
 
@@ -67,3 +67,4 @@ atendimento.ldtt@gmail.com
 Furb2024#
 
 https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/learn/lecture/8369712?start=0#overview  
+
