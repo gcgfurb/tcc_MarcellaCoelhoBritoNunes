@@ -30,7 +30,7 @@ Vários ajustes, mas está no caminho certo.
 
 ## 2024-08-15 - 17:18
 
-[Dalton] profa. Tomio pegar boneco anatômico emprestado.  
+\[Dalton] profa. Tomio pegar boneco anatômico emprestado.  
 
 Curso Unity
   Udemey
@@ -68,3 +68,22 @@ Furb2024#
 
 https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/learn/lecture/8369712?start=0#overview  
 
+## 2024-08-29 - 17:29
+
+Pegar ideias do Virtuali-Tee e implementar no App RV-Aula  
+
+### 04/09 Digitalização
+  
+- tcc_EricoHenriqueKreusch (pé)  
+- tcc_FelipeKriegerBuche (bicho centro de exposição)  
+- tcc_GuilhermeSouzaDosSantos_JennyferAraujo (hardware museu)  
+- tcc_MarcellaCoelhoBritoNunes (corpo anatômico)  
+
+### 12/09 Professora Tomio
+
+Pedir informações para Tomio:  
+
+- valor pago pelo boneco?  
+- texto da BNCC (justificativa)  
+
+[2024-09-19_AppTelas](2024-09-19_AppTelas.pdf)  
