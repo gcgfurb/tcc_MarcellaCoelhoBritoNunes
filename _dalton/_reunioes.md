@@ -87,3 +87,14 @@ Pedir informações para Tomio:
 - texto da BNCC (justificativa)  
 
 [2024-09-19_AppTelas](2024-09-19_AppTelas.pdf)  
+
+## 2024-10-10 - 17:19
+
+- Salvar no Github <https://github.com/dalton-reis/tcc_MarcellaCoelhoBritoNunes/>  
+- testar no smartphone  
+- tela das funções  
+- trazer textos para português  
+- iniciar a escrita do artigo  
+- \[Dalton]: digitalizar o boneco anatômico  
+
+- próxima semana: verificar o que se no projeto, e o que foi feito  
