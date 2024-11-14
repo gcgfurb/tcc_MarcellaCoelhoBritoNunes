@@ -98,3 +98,12 @@ Pedir informações para Tomio:
 - \[Dalton]: digitalizar o boneco anatômico  
 
 - próxima semana: verificar o que se no projeto, e o que foi feito  
+
+## 2024-11-07 - 17:54
+
+Questionário:
+<https://docs.google.com/forms/d/1WY-4Of2w1PIqUQIX-W620HkR18vSphoP0zNfy3pSNKE/edit>  
+
+Dalton: gerar novos DAE com tamanho menor.  
+Lucas: usar imagens para gerar as cartas dos marcadores.
+Macella: enviar DAE e imagens.
