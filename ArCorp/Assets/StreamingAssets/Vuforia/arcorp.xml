@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pulmao" size="1.000000 0.800000" />
+    <ImageTarget name="figado" size="1.000000 0.800000" />
+    <ImageTarget name="estomago" size="1.000000 0.954414" />
+    <ImageTarget name="coracao" size="1.000000 1.000000" />
+    <ImageTarget name="intestino" size="1.000000 0.954414" />
+  </Tracking>
+</QCARConfig>
