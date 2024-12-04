@@ -2,40 +2,36 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-using UnityEngine.UI; // Certifique-se de usar o UI do Unity
+using UnityEngine.UI; 
 using UnityEngine.SceneManagement;
 public class Modelo3DManager : MonoBehaviour
 {
     [System.Serializable]
     public class SpriteDescricao
     {
-        public string nomeSprite;  // Nome do sprite, para associar ao botão
-        public Sprite sprite;      // O sprite (imagem) a ser exibido
-        public string descricao;   // Descrição do sprite
+        public string nomeSprite; 
+        public Sprite sprite;      
+        public string descricao;   
     }
 
-    public List<SpriteDescricao> spriteDescricoes;  // Lista de pares Sprite-Descrição
-    public TextMeshProUGUI descricaoText;           // Campo de texto para exibir a descrição
-    public UnityEngine.UI.Image spriteDisplay;      // Componente UI Image para exibir o Sprite
+    public List<SpriteDescricao> spriteDescricoes;  
+    public TextMeshProUGUI descricaoText;           
+    public UnityEngine.UI.Image spriteDisplay;      
 
-    private int currentIndex = -1;                  // Índice inicial inválido, para garantir que nenhum sprite esteja exibido no começo
+    private int currentIndex = -1;                 
 
-    // Método para exibir o sprite e a descrição com base no nome do sprite
     public void ShowSpriteAndDescription(string nomeSprite)
     {
-        // Encontra o sprite com o nome correspondente
         for (int i = 0; i < spriteDescricoes.Count; i++)
         {
             if (spriteDescricoes[i].nomeSprite == nomeSprite)
             {
                 currentIndex = i;
-                spriteDisplay.sprite = spriteDescricoes[i].sprite;   // Exibe o sprite
-                descricaoText.text = spriteDescricoes[i].descricao;  // Exibe a descrição
+                spriteDisplay.sprite = spriteDescricoes[i].sprite;   
+                descricaoText.text = spriteDescricoes[i].descricao;  
                 return;
             }
         }
-
-        // Caso não encontre, limpar o display
         spriteDisplay.sprite = null;
         descricaoText.text = "Sprite não encontrado!";
     }
@@ -43,8 +39,6 @@ public class Modelo3DManager : MonoBehaviour
     {
         SceneManager.LoadScene(0);
     }
-
-    // Métodos para serem chamados pelos botões correspondentes
     public void OnPulmaoButtonClick()
     {
         ShowSpriteAndDescription("pulmao");  
@@ -70,9 +64,9 @@ public class Modelo3DManager : MonoBehaviour
         ShowSpriteAndDescription("estomago");  
 
     }
-    public void OnRinsButtonClick()
+    public void OnCerebroButtonClick()
     {
-        ShowSpriteAndDescription("rins");
+        ShowSpriteAndDescription("cerebro");
 
     }
 
